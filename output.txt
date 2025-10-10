@@ -1,0 +1,46 @@
+\\1LL &\href{https://www.duolingo.com/}{Duolingo} &500M &React &
+\\2LL &\href{https://www.babbel.com/}{Babbel} &26M (sub) &React &
+\\3LL &\href{https://www.memrise.com/}{Memrise} &50M &React &
+\\4LL &\href{https://www.pimsleur.com}{Pimsleur} &1M &React &
+\\5LL &\href{https://www.rocketlanguages.com}{Rocket Languages} &2M &React &
+\\6LL &\href{https://mangolanguages.com/}{Mango} &2M &React &
+\\7LL &\href{https://www.lingq.com/}{Lingq} &1M &React &
+\\8LL &\href{https://www.futurelearn.com/}{Futurelearn} &17M &React &
+\\9LL &\href{https://www.innovativelanguage.com/}{Innovativelanguage} &- &React &
+\\10LL &\href{https://www.edx.org/learn/language}{Edx} &86M &React &
+\\11LL &\href{https://www.lingodeer.com/}{LingoDeer} &250K &Vue &
+\\12LL &\href{https://readlang.com/}{Readlang} &1M &Preact &
+\\13LL &\href{https://www.busuu.com/en-us}{Busuu} &120M &React &
+\\14LL &\href{https://languagedrops.com/}{Languagedrops} &25M &React &
+\\15LL &\href{https://promova.com/course/online-language-course}{Promova} &10M &React &
+\\16LL &\href{https://www.linkedin.com/learning/topics/language-learning}{Linkedin} &1B &Ember &
+\\17LL &\href{https://www.udemy.com/topic/learning-a-foreign-language/}{Udemy} &75M &React &
+\\18LL &\href{https://www.clozemaster.com/}{Clozemaster} &- &React &
+\\19N &\href{https://www.lefigaro.fr/}{Le Figaro} &22M &React &
+\\20N &\href{https://www.liberation.fr/}{Libération} &2M &React &
+\\21N &\href{https://www.leparisien.fr/}{Le Parisien} &15M &React &
+\\22N &\href{https://www.nytimes.com/}{The New York Times} &12M &React &
+\\23N &\href{https://www.telegraph.co.uk/}{The Telegraph} &26M &React &
+\\24N &\href{https://www.lequipe.fr/}{L'Équipe} &2.5M &React &
+\\25N &\href{https://www.lexpress.fr/}{L'Express} &1M &React &
+\\26N &\href{https://www.wsj.com/}{The Wall Street Journal} &4.3M (sub) &React &
+\\27N &\href{https://www.washingtonpost.com/}{The Washington Post} &65M &React &
+\\28N &\href{https://www.bloomberg.com/}{Bloomberg} &- &React &
+\\29N &\href{https://www.smh.com.au/}{The Sydney Morning Herald} &6.9M (sub) &React &
+\\30N &\href{https://www.lesechos.fr/}{Les Echos} &24M &React &
+\\31N &\href{https://www.theage.com.au/}{The Age} &4.5M &React &
+\\32GD &\href{https://www.canva.com/}{Canva} &220M &React &
+\\33GD &\href{https://www.befunky.com/features/graphic-designer/}{Befunky} &25M &PixiJS &
+\\34GD &\href{https://www.postermywall.com/index.php/m/online-graphic-design}{Postermywall} &4M &React &
+\\35GD &\href{https://www.figma.com/design/}{Figma} &10M &React &
+\\36GD &\href{https://www.fotor.com/design/}{Fotor} &800M &React &
+\\37GD &\href{https://create.vista.com/}{VistaCreate} &10M &React &
+\\38GD &\href{https://picsart.com/design-tools/}{Picsart} &150M &React &
+\\39GD &\href{https://www.fotojet.com/features/graphic-design/}{Fotojet} &- &React &
+\\40GD &\href{https://designwizard.com/}{Design Wizard} &- &React &
+\\41GD &\href{https://www.renderforest.com/graphic-maker}{RenderForest} &30M &React &
+\\42GD &\href{https://desygner.com/graphic-design-tools/}{Desygner} &37M &React &
+\\43GD &\href{https://www.erase.bg/blog/best-online-graphic-design-software-programs}{Erase} &32M &React &
+\\44GD &\href{https://snappa.com/}{Snappa} &- &jQuery &
+\\45GD &\href{https://www.designcap.com/}{DesignCap} &- &React &
+\\46GD &\href{https://www.flexclip.com/editor/app?id=tlfbb6NLRw9l0QP142PMB26h9GjkXq9k}{FlexClip} &7M &React 
