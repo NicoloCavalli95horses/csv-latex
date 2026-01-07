@@ -6,7 +6,7 @@ no freemium,FALSE,language learning,,,,,no premium content shown to regular user
 no freemium,FALSE,language learning,,,,,"no RBAC, hard paywall to schedule lessons",Lingoda: Online language courses with native-level teachers,,,,https://www.lingoda.com/en/,,
 no ACP,FALSE,language learning,,,,,no RBAC,Learn a New Language - EU Academy - European Union,,,,https://academy.europa.eu/courses/learn-a-new-language,,
 no freemium,FALSE,language learning,,,,,"no RBAC, hard paywall to schedule lessons",Preply: Learn with the best online language tutors,,,,https://preply.com/,,
-eligible,FALSE,language learning,,,,React,,Babbel,-,26M,https://www.babbel.com/,https://www.babbel.com/,https://my.babbel.com/dashboard/inprogress,
+eligible,FALSE,language learning,,,,React,,Babbel,-,25M,https://www.babbel.com/,https://www.babbel.com/,https://my.babbel.com/dashboard/inprogress,
 no freemium,FALSE,language learning,,,,,"no RBAC, hard paywall to schedule lessons",italki - Best language learning app with certificated tutors,,,,https://www.italki.com/,,
 no ACP,FALSE,language learning,,,,,no RBAC,Learn a Language | Free Online Language Learning,,,,https://www.learnalanguage.com/,,
 server-side,FALSE,language learning,,,,,"RBAC policies, freemium content. No JS framework",Lingua,,,,https://lingua.com/,https://lingua.com/it/tedesco/lettura/?view=new#exercises,

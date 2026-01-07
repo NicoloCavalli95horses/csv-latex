@@ -61,9 +61,9 @@ async function handleData(data) {
             user = `${data['Paid Subscribers']} (sub)`;
           }
         }
-        // if (link.includes('http')) {
-        //  user = createUrl(link, user); // Special chars create issues in latex
-        // }
+        if (link.includes('http')) {
+          user = createUrl(sanitizeLink(link), user); // Special chars create issues in latex
+        }
         row.push(makeLatexCell(user));
       } 
       
@@ -99,4 +99,21 @@ async function composeTable() {
   let output = rows.join('\n');
   output = output.slice(0, output.length - 1); // remove last &
   await promises.writeFile('output.txt', output, 'utf-8');
+}
+
+function sanitizeLink(link) {
+    const replacements = {
+    '\\': '\\textbackslash{}',
+    '{': '\\{',
+    '}': '\\}',
+    '#': '\\#',
+    '$': '\\$',
+    '%': '\\%',
+    '&': '\\&',
+    '_': '\\_',
+    '^': '\\^{}',
+    '~': '\\textasciitilde{}',
+  };
+
+  return link.replace(/([\\{}#$%&_^\~])/g, match => replacements[match]);
 }
